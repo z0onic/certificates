@@ -13,7 +13,7 @@ const imgs = [
         source: 'freecodecamp'
     },
     {
-        src: 'Javascript-Algorithms-and-Data-Structures_freecodecamp.png',
+        src: 'JavaScript-Algorithms-and-Data-Structures_freecodecamp.png',
         link: '',
         name: 'Javacript Algorithms and Data Structures',
         source: 'freecodecamp'
